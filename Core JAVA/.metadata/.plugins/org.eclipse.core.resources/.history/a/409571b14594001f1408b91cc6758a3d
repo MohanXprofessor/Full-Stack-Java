@@ -1,0 +1,16 @@
+package com.variables;
+
+public class Variables {
+	
+	public static void main(String[] args) {
+		
+		
+		String name = "Ajay";
+		System.out.println(name);
+		
+		
+		
+		int myNum = 15;
+		System.out.println(myNum);
+	}
+}

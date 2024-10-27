@@ -1,0 +1,15 @@
+package com.math;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Maximim Number is :"+Math.max(51, 10)); //return max number
+		
+		System.out.println("Minimum Number is :"+Math.min(52, 10)); //return minimum number
+		
+
+	}
+
+}
